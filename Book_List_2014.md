@@ -1,0 +1,83 @@
+#Book List 2014
+###文学
+- 村上春树
+    - 《遇到百分之百的女孩》
+    - 《无比芜杂的心绪》
+    - 《天黑以后》
+    - 《当我谈跑步时，我谈些什么》
+    - 《没有色彩的多崎作和他的巡礼之年》
+    - 《眠》
+    - 《远方的鼓声》（未读完）
+    - 《电视人》
+    - 《旋转木马鏖战记》
+    - *Norwegian Wood*
+- 川端康成
+    - 《雪国》
+    - 《伊豆的舞女》
+- 渡边淳一
+    - 《香囊》
+    - 《恋寝》
+    - 《累壶》
+    - 《失乐园》
+- 芥川龙之介
+    - 《罗生门》
+- 乔治·奥威尔 George Orwell
+    - 《1984》
+- 菲茨杰拉德 Francis Scott Key Fitzgerald
+    - 《了不起的盖茨比》
+- 玛格丽特·杜拉斯 Marguerite Duras
+    - 《情人》( kindle )
+- 乔斯坦·贾德 Jostein Gaarder
+    - 《苏菲的世界》（未读完）
+- J.K. Rowling
+    - *Harry Potter and the Philosopher's Stone*
+    - *Harry Potter and the Chamber of Secrets*
+    - *Harry Potter and the Prisoner of Azkaban*
+- Antoine de Saint Exupéry
+    - *The Little Prince*
+- J.D. Salinger
+    - *The Catcher in the Rye*
+- Greg Behrendi and Liz Tuccillo
+    - *He's Just Not That Into You*
+- Spencer Johnson
+    - *Who Moved My Cheese?*
+-  E·B·White
+    - *Charloote's Web* 
+- 池建强
+    - 《MacTalk人生元编程》
+- 囧叔
+    - 《我讲个笑话，你可别哭啊》( kindle )
+- 近藤大介
+    - 《中国缺什么，日本缺什么》
+    - 《唯有青春，最难将息》（未读完）
+
+###非文学
+**注：由于个人知识有限，部分书籍只挑选其中一些能懂的内容阅读，并未完全读过，书籍后面的百分值代表已阅读所占的比例，特此标明。**
+
+- 赖世熊
+    - 《赖世熊美语音标》(100%)
+- 伍君仪 || 刘晓光（奶爸）
+    - 《把你的英语用起来！》(100%)
+- 旋元佑
+    - 《语法俱乐部》(70%)
+- Staffan Nöteberg
+    - 《番茄工作法图解》(100%)
+- Drew Neil
+    - 《Vim实用技巧》( *Practical Vim* )(90%)
+- Stanley B. Lippman || Barbara E. Moo || JoséeLaJoie 
+    - 《C++ Primer（第五版）》(70%)
+- Nell Dale || John Lewis
+    - 《计算机科学概论》(30%)
+- Randal E. Bryant || David R. O'Hallaron
+    - 《深入理解计算机系统》(20%)
+- Robert C. Martin
+    - 《代码整洁之道》(20%)
+- Sartaj Sahni
+    - 《数据结构、算法与应用——C++语言描述》(30%)
+- Jeremy Keith || Jeffrey Sambells
+    - 《Javascript DOM 编程艺术（第二版）》(30%)
+- 鸟哥
+    - 《鸟哥的Linux私房菜基础学习篇（第三版）》(30%)
+- Paul Graham
+    - 《黑客与画家》(40%)
+- ......
